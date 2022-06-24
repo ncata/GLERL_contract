@@ -3,7 +3,7 @@
 
 ## 06/23/2022: NOAA GLERL/remote
 
-- 08:30:
+- 08:30: Clock in
     * Plan daily tasks and check email
 - 09:30:
     * Arrive at GLERL.
@@ -17,19 +17,21 @@
     * Review potential owg sites on and off ReCON network in Lake Erie
 - 12:00:
     * Managed AWS account.
-    * Reached out to AWS about redeeming grant credits (OOO until July 4th).
+    * Reached out to AWS about redeeming grant credits (Point of contact is OoO until July 4th).
     * Began familiarizing myself with No Tears Cluster, general HPC terminology and usage, and requirements to ssh into a cluster in order to run jupyter. May be more useful to adapt .py scripts from Dan's OWG_DNN repo.
 - 13:45:
     * IT helps install software (Atom, Git, Anaconda)
-- 14:00:
-    * Cloned glerl_owg repo to local machine.
-    * Created blank activitylog.txt, glerl_owg.yml, and startup_goals.txt files. Populate then attempted to committ and push activitylog.txt to repo. Failed due to incorrect directory management.
 - 14:30:
+    * Cloned glerl_owg repo to local machine.
+    * Created blank activitylog.txt, glerl_owg.yml, and startup_goals.txt files. Populate then attempted to commit and push activitylog.txt to repo. Failed due to incorrect directory management. Troubleshooted.
+- 15:30:
     * Meeting with Steve R. (Fedwriters) on first week.
-- 14:45:
-    * Read over tc information.
-- 15:00:
-    * Identified correct directory path and removed local github repository. Will reinstall later
+- 15:45:
+    * Read over tc information and watched tutorial
+- 16:00:
+    * Identified correct directory path and removed local github repository. Will reclone later when on network.
+    * Updated and populated local files
+- 16:30: Clock out
 
 ## 06/23/2022: NOAA GLERL/remote
 - 09:00:
@@ -37,7 +39,7 @@
 - 09:30:
     * Reviewd git commands and best practices to ensure that upstream data maintains integrity. Branches should not be needed.
 - 10:30:
-    * Reviewed and forwarded docs. from Steve R.
+    * Reviewed and forwarded docs from Steve R.
     * Emailed re:tc info after unsuccesful login
 - 11:00:
     * Cloned git repo to appropriate direcotory and pushed local directory.
@@ -48,3 +50,5 @@
     * Created glerl_contract python env
     * Accessed tc info and logged hours
     * Populated startup_goals.md
+- 14:00:
+    * Started WeeklyReport_06.24.txt
