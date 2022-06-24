@@ -2,7 +2,7 @@
 # GLERL Contract Startup Goals
 note: Several elements of this list have been begun or completed. This document is made as only a reference and for documentation of tasks to be completed and completed each week. It is updated as work on each task progresses    
 
-## Onboarding  
+## Office 
 
 - Log hours for this week.
 - Talk to admin re GSA driving training to start on training
