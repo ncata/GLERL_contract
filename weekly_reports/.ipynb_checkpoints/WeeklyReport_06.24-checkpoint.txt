@@ -1,0 +1,35 @@
+Week of 06/21/2022
+
+- Onboarded with Fedwriters: 
+    * Completed I-9 documentation
+    * Gained access to timecard
+    * Attended Fedwriters orientation call
+    
+- Set up at GLERL:
+    * Got GFE and downloaded software to laptop
+    * Met other members/contractors in Observing System and Advanced Tech Team
+    * Started registration for defensive driving training. 
+    * Got in contact with IT for NOAA email
+   
+- Started work on OWG project:
+     * Set up python environment
+     * Created GitHub repository and cloned to local device - https://github.com/ncata/GLERL_contract
+     * Reviewd QC code and potential updates
+     * Reread original OWG paper
+     * Contacted AWS about No Tears Cluster HPC access
+     * Spoke with Steve Ru. (NOAA) about progress and timeline 
+ 
+- Planned Field Work:
+     * Spoke with Steve Ru. (NOAA) about field ops in lakes Huron and Erie in July.
+     * Coordinated Science and Monitoring Initiative (CSMI) cruise is 
+       planned for July 5-17th. GLERL would possibly like me onboard to help with operations. Further details from chief sci and cruise plan to come next week
+
+- Misc:
+    * Read job description for Obersving Systems Engineer from Fedwriters. Considering and also alerting engineering/marsci contacts
+     
+- Looking Ahead:
+     * Annotate orignial OWG paper
+     * Begin working on new versions of python functions 
+     * Identify other options for computer resources (discrete single GPUs and/or DASK parallel processing)
+     * Lock in field experience dates and secure travel funding
+     * Figure out GSI defensive driving training issues 
