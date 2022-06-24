@@ -52,3 +52,7 @@
     * Populated startup_goals.md
 - 14:00:
     * Started WeeklyReport_06.24.txt
+    * Confirmed partial details of field work
+    * Transfered code between repos
+    * Did a python excercise to update GitHub profile and bio
+    * File management/typing up activity log and weekly report. 

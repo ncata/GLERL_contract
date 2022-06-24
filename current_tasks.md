@@ -24,4 +24,4 @@ note: Several elements of this list have been begun or completed. This document 
 
 ## Field
 
-- Talk to chief sci and review crusie plan for CSMI crusie from July 5-15
+- Talk to chief sci and review crusie plan for CSMI cruise from July 5-15

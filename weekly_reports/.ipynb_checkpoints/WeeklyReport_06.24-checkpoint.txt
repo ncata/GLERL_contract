@@ -29,7 +29,7 @@ Week of 06/21/2022
      
 - Looking Ahead:
      * Annotate orignial OWG paper
-     * Begin working on new versions of python functions 
+     * Begin working on new versions of python functions and clean up .ipynbs to presentable standard 
      * Identify other options for computer resources (discrete single GPUs and/or DASK parallel processing)
      * Lock in field experience dates and secure travel funding
      * Figure out GSI defensive driving training issues 
