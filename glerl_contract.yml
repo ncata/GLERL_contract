@@ -1,0 +1,22 @@
+name: glerl_contract
+channels:
+  - conda
+  - defaults
+dependencies:
+  - python
+  - ipython
+  - numpy
+  - scipy
+  - matplotlib
+  - imageio
+  - h5py
+  - pandas
+  - pip
+  - mkl-service
+  - scikit-image
+  - scikit-learn
+  - requests
+  - tensorflow-gpu==2.0
+  - pillow
+  - jupyterlab
+  - m2-base
