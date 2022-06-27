@@ -55,4 +55,13 @@
     * Confirmed partial details of field work
     * Transfered code between repos
     * Did a python excercise to update GitHub profile and bio
-    * File management/typing up activity log and weekly report. 
+    * File management/typing up activity log and weekly report.
+
+## 06/27/2022 NOAA GLERL/remote
+- 09:30:
+    * Plan current tasks and populate .md file
+    * Arrive at GLERL/set up worksapce and check repos
+- 10:20:
+    * Being work on Prepdata_glerl.ipynb. Dan's code did not only include water. Try to only crop to square.
+    * Looked inot new IQA metrics. BRISQUE was thought of last summer but ultimately not used, images probably not high enough resolution.
+    * OpenCv [Laplacan variance](https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/) may work for blur detection. [Rodrigo Loza Classify Day and Night Images](https://www.youtube.com/watch?v=dfcrYIu5LNo) for brightness
