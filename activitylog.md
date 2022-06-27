@@ -1,6 +1,8 @@
 
 # GLERL Contract Activity Log - Nicholas Catanzaro 2022
 
+## Note: Each time represents the beginning of a new group of activities. Most are related or are broken up around meals, meetings, or short breaks.
+
 ## 06/23/2022: NOAA GLERL/remote
 
 - 08:30: Clock in
@@ -60,8 +62,26 @@
 ## 06/27/2022 NOAA GLERL/remote
 - 09:30:
     * Plan current tasks and populate .md file
-    * Arrive at GLERL/set up worksapce and check repos
+    * Arrive at GLERL/set up workspace and check repos
 - 10:20:
     * Being work on Prepdata_glerl.ipynb. Dan's code did not only include water. Try to only crop to square.
-    * Looked inot new IQA metrics. BRISQUE was thought of last summer but ultimately not used, images probably not high enough resolution.
-    * OpenCv [Laplacan variance](https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/) may work for blur detection. [Rodrigo Loza Classify Day and Night Images](https://www.youtube.com/watch?v=dfcrYIu5LNo) for brightness
+    * Looked into new IQA metrics. BRISQUE was thought of last summer but ultimately not used, images probably not high enough resolution.
+    * OpenCv [Laplacian variance](https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/) may work for blur detection. [Rodrigo Loza Classify Day and Night Images](https://www.youtube.com/watch?v=dfcrYIu5LNo) for brightness
+    * Planned additional code changes
+- 13:00:
+    * Spoke with Steve and Ed about field schedule. Report to GLERL tomorrow at 0800 and plan to be on CSMI cruise helping with bio sampling.
+    * Break for lunch
+- 13:50:
+    * Tested Laplacian Variance. Inconclusive. Could be an indicator of wave detectability rather than blurs but further testing is needed.
+    * Tested Loza's code for brightness. Requires pre sorted day and night dirs. to find theta value. May be better to stick with np.intensity as a QC metric. More research into QC metrics is needed.
+- 14:30:
+    * Considered other systems for directory management
+    * Spoke with Ed confirming CSMI cruise participation.
+    * Updated working lists
+    * Worked on Prepdata_glerl notebook
+    * Installed necessary packages into python environment.
+    * Planned OWG trials.
+- 17:00:
+    * Break to exercise
+- 18:00
+    * Logs/other documentation, timecard, clockout.
