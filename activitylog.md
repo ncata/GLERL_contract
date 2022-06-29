@@ -36,6 +36,7 @@
 - 16:30: Clock out
 
 ## 06/23/2022: NOAA GLERL/remote
+
 - 09:00:
     * Set up files on directory in c drive to host local copy of glerl_contract repo
 - 09:30:
@@ -60,6 +61,7 @@
     * File management/typing up activity log and weekly report.
 
 ## 06/27/2022 NOAA GLERL/remote
+
 - 09:30:
     * Plan current tasks and populate .md file
     * Arrive at GLERL/set up workspace and check repos
@@ -85,3 +87,34 @@
     * Break to exercise
 - 18:00
     * Logs/other documentation, timecard, clockout.
+
+## 06/28/2022 NOAA GLERL-Toledo Light
+
+- 08:00:
+    * Travel to NCYC
+- 09:00:
+    * MOB and transit to field site
+- 09:30:
+    * Begin field ops; webcam and HAB sensor installation
+- 14:00
+    * Transit back to NCYC
+- 15:00
+    * Drive back to GLERL
+- 16:00
+    * Arrive at GLERL
+
+## 06/28/2022
+
+- 09:00:
+    * Consider timeline for running OWG trials. Get data from GLERL before ship out on CSMI and run while on cruise.
+    Must ensure Jupyter will run w/o internet.
+- 10:00:
+    * Read CSMI cruise plan
+    * Prepare notes for meeting with Steve R. (Fedwriters)
+- 11:00:
+    * Meeting with Steve R. Confirmed presence on CSMI cruise
+    * Reviewed csv_interpolation notebook from SSF repo
+- 12:00:
+    * GLERL Summer Fellow Lunch and Learn
+        + Listened to Craig speak about modeling and Steve Ru. talk about sink holes in Lake Huron offshore Alpena, MI.
+        
