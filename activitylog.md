@@ -103,7 +103,7 @@
 - 16:00
     * Arrive at GLERL
 
-## 06/28/2022
+## 06/29/2022 - Remote
 
 - 09:00:
     * Consider timeline for running OWG trials. Get data from GLERL before ship out on CSMI and run while on cruise.
@@ -117,4 +117,29 @@
 - 12:00:
     * GLERL Summer Fellow Lunch and Learn
         + Listened to Craig speak about modeling and Steve Ru. talk about sink holes in Lake Huron offshore Alpena, MI.
-        
+- 13:00:
+    * Break for Lunch
+- 14:30:
+    * QC code updates
+    * Manual image review of view 2 in mcy 2021
+    * QC efficacy tests
+        + Is manual review worth it? Increased data volume and batch size? Run trial on 06/30 for testing.
+    * Further image blurriness review. Everyone is using laplacian, but that doesn't work well for water droplets it seems.
+- 16:30:
+    * Updating and troubleshooting prepowgimgs function. Does not like to be run twice. Is there an rm_tree function in shutil?
+    * With no attempted QC on water droplets, x images with 2.5% not viable due to water droplets.
+        + How does this compare to a normal QC attempt?
+    * Troubleshooting code again after it failed multiple times to correctly assign file paths.
+- 19:30:
+    * Sign off
+
+## 06/30/2022 - Remote
+
+- 09:00:
+    * Workshopped ideas to change up code to avoid issues from yesterday
+- 10:00:
+    * Code works, though Jupyter nbs are starting to shut down. Going to save push and reset.
+    * Testing code with former sharpness QC results in 1.5k images with 2.7% not viable due to water droplets
+        + deleted records from yesterday. Must rerun function with no sharpness QC to compare methods.
+- 11:00
+    * Rerun sharpness code. 
