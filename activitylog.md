@@ -142,4 +142,19 @@
     * Testing code with former sharpness QC results in 1.5k images with 2.7% not viable due to water droplets
         + deleted records from yesterday. Must rerun function with no sharpness QC to compare methods.
 - 11:00
-    * Rerun sharpness code. 
+    * Rerun sharpness code.
+    * Rerun prepowgims and create a csv file. Resulted in ~1.5k available images but only 569 were found to be acceptable for csv use. This is not enough.
+        + Could we combine multiple (or all) years of data available. Would OWG still perform? I think it is worth a try at least. Might be awful, might just work. That will be todays trial. Create folder and csv file, port over on usb to GPU computer, then run owg notebook from there.
+- 12:00:
+    * Break for lunch
+- 13:20:
+    * prep images for testing
+    * Compare images manually
+    * Assess new file management structures
+- 15:00
+    * Review theory of csv_interpolation nb.
+        + Logic may be flawed. So many images are thrown out. Why? interpolators may not be the best tool for the job.
+    * Ran multiple tests on the nb. Many images were listed as outside interpolation range for next to no reason. Is mcy a poor site? Must explore other site opportunities
+    * Wrote new logic to accomplish what was done in interpolation. Will code tomorrow if necessary.  
+- 17:00:
+    * Sign out and wrap up. 
