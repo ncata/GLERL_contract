@@ -157,4 +157,27 @@
     * Ran multiple tests on the nb. Many images were listed as outside interpolation range for next to no reason. Is mcy a poor site? Must explore other site opportunities
     * Wrote new logic to accomplish what was done in interpolation. Will code tomorrow if necessary.  
 - 17:00:
-    * Sign out and wrap up. 
+    * Sign out and wrap up.
+
+## 07/01/2022
+
+- 09:00:
+    * Emails
+    * Reveiew yesterday's logic
+    * Plan updates to pre-interpolation code as well as code
+        + More reliable WVHT recordings would allow for more images to enter the OWG via the exclusion of noiser DPD and MWDIR recordings.  
+- 10:00:
+    * Start coding new notebook
+- 11:00:
+    * Meeting with Steve R. (Fedwriters)
+    * Sign timesheet
+    * Continue coding
+- 13:00:
+    * Break for Lunch
+- 14:00:
+    * Coding, testing, and running, Prepcsv_glerl.ipynb
+    * Identified local vs UTC difference that could have serious consquences if unresolved
+    * Tested and troubleshoot first function in notebook
+    * Added commetns and markdown cells to notebook
+- 17:00
+    * Sign off

@@ -1,0 +1,26 @@
+Week of 06/27/2022
+
+- OWG Project:
+    * Assessed the Prepdata_glerl.ipynb code
+        + Simplified file management process
+        + Troubleshooted error messages resulting from directory overwriting
+        + Applied code on all available years
+        + Experimented with new QC approaches, est_sharpness function found to be redundant
+    * Created Prepcsv_glerl.ipynb
+        + Reused code from csv_interpolation.ipynb, interpolation is theorized to over filter the dataset
+        + Rewrote functions to read .txt files and create .csv files
+        + Identified time zone discrepancy (local vs UTC), this could have been the root cause of the csv_interpolation.ipynb issue
+
+- Field:
+    * Went to Toledo light to install Webcam and HAB sensor
+    * Confirmed attendance on CSMI cruise with Ed Rutherford
+
+- Misc:
+    * Introduced myself to GLERL summer fellows at a luncha and learn meeting
+
+- Looking ahead:
+    * Work CSMI cruise
+    * Run trials on OWG
+    * Complete work on *_glerl notebook Code
+    * Formalize code into python functions
+    
