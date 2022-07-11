@@ -1,0 +1,14 @@
+Week of 07/05/2022
+
+- OWG Project:
+  * Continued to troubleshoot python script in prepcsv_glerl.ipynb
+  * Looked into documentation on unix timestamp conversion functions in pandas
+
+- Field:
+  * Worked aboard R/V Laurentian for 4 days
+    + Deployed and recovered Plankton Survey System (PSS), Zooplankton nets, CTD casts
+    and collected water samples
+    + Assisted in recording, cataloguing, and onboard storage of biological samples
+    + Maintained a consistent 6 on 6 off schedule in coordination with the rest of the science party
+    + Mobilized and Demobilized equipment, personal items, and prepared ship for departure/arrival at port in Alpena, MI
+    

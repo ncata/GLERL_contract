@@ -176,8 +176,22 @@
     * Break for Lunch
 - 14:00:
     * Coding, testing, and running, Prepcsv_glerl.ipynb
-    * Identified local vs UTC difference that could have serious consquences if unresolved
+    * Identified local vs UTC difference that could have serious consequences if unresolved
     * Tested and troubleshoot first function in notebook
-    * Added commetns and markdown cells to notebook
+    * Added comments and markdown cells to notebook
 - 17:00
     * Sign off
+
+## 07/11/2022
+
+- 10:00:
+    * Zywave training for Fedwriters
+- 11:00:
+    * Troubleshooting unix timestamp converter code in prepcsv_glerl.ipynb
+- 12:00:
+    * Meeting with Steve R. (Fedwriters)
+    * Continued work on unix timestamp problem
+- 14:10:
+    * Lunch
+- 14:30:
+    * Solved unix timestamp problem, solved csv add problem. New code increases data availability by more than an order of magnitude, and ensures more accurate model training. 
