@@ -10,24 +10,16 @@ note: Several elements of this list have been begun or completed. This document 
 
 ## OWG
 
-- Read full README.md on OWG_DNN
-    * If warranted, annotate pdf of Dan's paper and save locally in c/njc/docs/glerl_docs
 - Review HPC Access
     * AWS credits cannot be accessed until July 5th at the earliest. Learn more about running scripts or launchign jupyter in No Tears cluster
     * Explore other options for HPC use (WHOI? NOAA?)
     * Always consider if this can be done with available computing resources. What is at GLERL and how do I access it?
-- Optimize OWG Code
-    * What model hyperparameters can be modified. With enough data can we keep 16?
-    * Combine creation and separation into viewpaths with the initial copying of ReCON images to reduce processing time.
-    * Refresh underlying understanding of interpolation into csv.
-        + Code new logic for csv creation. ONLY WVHT
-    * Turn validation splitting code into function. Clean up the notebook and make a glerl_owg.py file
-        + Either split up prep_owg function and store with .csv interpolation function in one notebook/.py or combine them into a "master" function.
 - Run new OWG trials
-    * Access archived fils
+    * Single year trials
     * Multiyear trials, new QC code at mcy (or other site as reccomended).
+    * No avg.intensity QC vs avg.intensity QC
     * Will the model function better on more recent data? What about all data?
 
 ## Field
 
-- Report to GLERL 0800 07/05/2022 for CSMI
+- Stay on the lookout for field ops and tell Steve R. (Fedwriters) in advance in case of expenses/overtime

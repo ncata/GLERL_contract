@@ -159,11 +159,11 @@
 - 17:00:
     * Sign out and wrap up.
 
-## 07/01/2022
+## 07/01/2022 - Remote
 
 - 09:00:
     * Emails
-    * Reveiew yesterday's logic
+    * Review yesterday's logic
     * Plan updates to pre-interpolation code as well as code
         + More reliable WVHT recordings would allow for more images to enter the OWG via the exclusion of noiser DPD and MWDIR recordings.  
 - 10:00:
@@ -182,7 +182,7 @@
 - 17:00
     * Sign off
 
-## 07/11/2022
+## 07/11/2022 - NOAA GLERL
 
 - 10:00:
     * Zywave training for Fedwriters
@@ -194,4 +194,40 @@
 - 14:10:
     * Lunch
 - 14:30:
-    * Solved unix timestamp problem, solved csv add problem. New code increases data availability by more than an order of magnitude, and ensures more accurate model training. 
+    * Solved unix timestamp problem, solved csv add problem. New code increases data availability by more than an order of magnitude, and ensures more accurate model training. Next step, model training and csv merging. Low bin size, high quantity data, lets roll.
+- 18:00:
+    * Sign off
+
+## 07/12/2022 - NOAA GLERL
+
+- 09:00:
+    * Emails
+- 10:00:
+    * Turn random sampling code into a function
+- 11:00
+    * add to randomsampling function
+    * integrate notebooks
+- 12:00:
+    * Troubleshoot integrated notebooks
+- 13:00:
+    * break for lunch
+- 13:30:
+    * continue troubleshooting
+- 14:00:
+    * Begin preparing for trial: glerl1
+    * Configure necessary files
+    * Go to access computer for trial glerl1
+
+## 07/13-15/2022 - Remote
+
+- Hours as logged, trained and displayed owg results.
+
+## 07/18/2022 - Remote
+
+- 09:00:
+    * Emails and day/trial planning
+- 10:00:
+    * Schedule meeting w/ Dalton
+    * Set up trial csv for glerl2
+    * Continue troubleshooting mape code (hopefully different dataset will work better)
+    
