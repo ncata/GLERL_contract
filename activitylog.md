@@ -230,4 +230,27 @@
     * Schedule meeting w/ Dalton
     * Set up trial csv for glerl2
     * Continue troubleshooting mape code (hopefully different dataset will work better)
-    
+- 12:00:
+    * Run glerl2 trial, assess performance and update Logs
+- 17:00:
+    * Sign out
+
+## 07/19/2022
+
+- 09:00:
+    * Emails and day/trial planning
+- 11:30:
+    * Set up trial directory and csv for glerl3
+    * Reviewed efficacy of MAPE vs MAE
+- 12:00:
+    * Run glerl3 trial
+- 17:00:
+    * Sign out, trial 3 still training, unable to allow runtime past my supervision
+
+## 07/20/2022
+
+- 9:00:
+    * Emails and code updates to Prepdata_glerl
+    * Continue running trial 3
+        + Computer is either shutting off because it needs updates or because of strain from high data volume/size
+  

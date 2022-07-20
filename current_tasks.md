@@ -19,6 +19,8 @@ note: Several elements of this list have been begun or completed. This document 
     * Multiyear trials, new QC code at mcy (or other site as reccomended).
     * No avg.intensity QC vs avg.intensity QC
     * Will the model function better on more recent data? What about all data?
+- Email Lauren
+
 
 ## Field
 
